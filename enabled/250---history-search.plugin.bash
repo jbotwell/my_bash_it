@@ -1,0 +1,1 @@
+../plugins/available/history-search.plugin.bash

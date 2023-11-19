@@ -1,0 +1,1 @@
+../plugins/available/history-substring-search.plugin.bash

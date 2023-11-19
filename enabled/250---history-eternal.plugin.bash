@@ -1,0 +1,1 @@
+../plugins/available/history-eternal.plugin.bash
